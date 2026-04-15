@@ -1,0 +1,17 @@
+# YOLO Dataset Configuration
+path: .  # dataset root dir
+train: train/labels
+val: test/labels
+
+# Classes
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
+  4: fish
+  5: corals
+  6: diver
+  7: cuttlefish
+  8: turtle
+  9: jellyfish
