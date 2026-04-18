@@ -51,10 +51,16 @@ If you want to modify the annotations, for example after changing image resoluti
 If you use RUOD-R, please cite this paper:
 
 ```bibtex
-@article{RUODR2026,
-  title   = {{RUOD-R}: A High-Fidelity Re-Annotated Benchmark for Underwater Object Detection},
-  year    = {2026},
-}
+@ARTICLE{11483160,
+  author={Awad, Ali and Saleem, Ashraf and Aljnadi, Yaman and Lucas, Evan and Paheding, Sidike and Havens, Timothy C.},
+  journal={IEEE Access}, 
+  title={RUOD-R: A High-Fidelity Re-Annotated Benchmark for Underwater Object Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Filtering;Feedback;Filters;Circuits;Location awareness;Protocols;Mobile communication;Communication systems;Pixel;Electronic mail;Underwater object detection;Image enhancement;Dataset re-annotation;Bounding box quality;Label noise;Deep learning;Marine robotics;Benchmark evaluation},
+  doi={10.1109/ACCESS.2026.3685121}}
 ```
 
 
