@@ -6,6 +6,8 @@ This work provides **revised** object detection annotations (RUOD-R) for the [Re
 
 RUOD-R has about **3.5×** more instance annotations than original RUOD over the same 14,000 images and the same 10 classes.
 
+![Showcase](Figures/GA.png)
+
 ![Showcase](Figures/showcase.png)
 
 ## Layout
