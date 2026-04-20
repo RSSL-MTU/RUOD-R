@@ -1,9 +1,8 @@
 # RUOD-R: A High-Fidelity Re-Annotated Benchmark for Underwater Object Detection
 
-This repository reflects the work presented in the paper:
-[Awad et al., *RUOD-R: A High-Fidelity Re-Annotated Benchmark for Underwater Object Detection*](https://ieeexplore.ieee.org/document/11483160) which represents **revised** object detection annotations (RUOD-R) for the [Real-world Underwater Object Detection (RUOD)](https://github.com/xiaoDetection/RUOD) dataset. The train/test splits match the original release. Also, file names, image IDs, and image resolutions are unchanged.
+This repository contains the work from the paper [RUOD-R: A High-Fidelity Re-Annotated Benchmark for Underwater Object Detection](https://ieeexplore.ieee.org/document/11483160), introducing revised annotations (RUOD-R) for the [Real-world Underwater Object Detection (RUOD) dataset](https://www.sciencedirect.com/science/article/pii/S0925231222013169).
 
-RUOD-R has about **3.5×** more instance annotations than original RUOD over the same 14,000 images and the same 10 classes.
+Train/test splits, file names, image IDs, and resolutions are unchanged from the original release. RUOD-R provides ~3.5× more instance annotations across the same 14,000 images and 10 classes.
 
 ![Showcase](Figures/GA.png)
 
